@@ -3,22 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "manifest.json": "15f73b7e8a8209c2206210b3ac8dea1b",
-"version.json": "4b6db237b3514a88107a422469adfb0f",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+  "version.json": "4b6db237b3514a88107a422469adfb0f",
+"manifest.json": "15f73b7e8a8209c2206210b3ac8dea1b",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"main.dart.js": "ced04aa19d6b8165372d949388f8b0b9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "95096bcbd08dc64597b87934707be3f4",
-"index.html": "94305bc1df8d0a30b84fb9876dcd5c37",
-"/": "94305bc1df8d0a30b84fb9876dcd5c37",
-"assets/NOTICES": "6b0e722b95a20fd916471f5aa3b28262",
-"assets/AssetManifest.json": "373e7e4bc7c1439bb5360cc0c5816691",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"index.html": "d52c84401ee1a52b905d44260189413d",
+"/": "d52c84401ee1a52b905d44260189413d",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/assets/pages/lotties.json": "071eac2ab8a464dfc1b7b3f60e4643e8",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/AssetManifest.json": "373e7e4bc7c1439bb5360cc0c5816691",
+"assets/assets/lotties/bluetoothscanning.json": "9dc51300adb74b8f51fc5b5a6df88613",
 "assets/assets/lotties/fireworks.json": "ec044d733ba18c777ff1c7495c565e3b",
 "assets/assets/lotties/tent.json": "a9f0e9f7c921e176f66304822542ec69",
-"assets/assets/lotties/bluetoothscanning.json": "9dc51300adb74b8f51fc5b5a6df88613"
+"assets/assets/pages/lotties.json": "071eac2ab8a464dfc1b7b3f60e4643e8",
+"assets/NOTICES": "6b0e722b95a20fd916471f5aa3b28262"
 };
 
 // The application shell files that are downloaded before a service worker can
