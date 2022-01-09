@@ -20,8 +20,8 @@ const RESOURCES = {
 "assets/assets/lotties/bluetoothscanning.json": "9dc51300adb74b8f51fc5b5a6df88613",
 "assets/assets/pages/lotties.json": "071eac2ab8a464dfc1b7b3f60e4643e8",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"index.html": "66416965f59db68630cb9c859b0c2b35",
-"/": "66416965f59db68630cb9c859b0c2b35",
+"index.html": "48d8483f4012a4edd52f70d6681578f7",
+"/": "48d8483f4012a4edd52f70d6681578f7",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
