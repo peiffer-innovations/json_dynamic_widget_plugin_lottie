@@ -20,9 +20,9 @@ const RESOURCES = {
 "assets/assets/lotties/bluetoothscanning.json": "9dc51300adb74b8f51fc5b5a6df88613",
 "assets/assets/lotties/tent.json": "a9f0e9f7c921e176f66304822542ec69",
 "assets/assets/lotties/fireworks.json": "ec044d733ba18c777ff1c7495c565e3b",
-"assets/NOTICES": "b312028cbe4c3e2bab583912d1fc8e33",
-"index.html": "ff14d6de66d3c97e002bbdba58fb528c",
-"/": "ff14d6de66d3c97e002bbdba58fb528c",
+"assets/NOTICES": "1e0277703fb1c01399d558eff46a52fd",
+"index.html": "753d688d47b152519a7a6dfd2080ae41",
+"/": "753d688d47b152519a7a6dfd2080ae41",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
