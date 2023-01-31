@@ -54831,7 +54831,7 @@ i.ax=n
 k=n
 m=m>>>16
 i.c=m
-if(o.a>>>8===3)switch(m&61440){case 32768:break
+if(o.a>>>8===3)switch(m&61440){case 32768:case 0:break
 case 40960:if((k instanceof A.wQ?i.ax=k.gvQ(k):k)==null)i.Vy()
 m=q.a(i.ax)
 B.cw.br(m)
