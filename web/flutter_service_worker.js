@@ -3,27 +3,27 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"main.dart.js": "8631fdeeeee8f8b5c9e901c3e3e12292",
+  "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"index.html": "7c458b67d4388e1c6c3462316b3a8e8e",
+"/": "7c458b67d4388e1c6c3462316b3a8e8e",
+"main.dart.js": "f427f93f689414740e9e7f1ea94a56c4",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"manifest.json": "15f73b7e8a8209c2206210b3ac8dea1b",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "ff966ab969ba381b900e61629bfb9789",
-"manifest.json": "15f73b7e8a8209c2206210b3ac8dea1b",
-"assets/AssetManifest.json": "373e7e4bc7c1439bb5360cc0c5816691",
-"assets/assets/pages/lotties.json": "071eac2ab8a464dfc1b7b3f60e4643e8",
-"assets/assets/lotties/fireworks.json": "ec044d733ba18c777ff1c7495c565e3b",
-"assets/assets/lotties/tent.json": "a9f0e9f7c921e176f66304822542ec69",
-"assets/assets/lotties/bluetoothscanning.json": "9dc51300adb74b8f51fc5b5a6df88613",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/NOTICES": "d6efee2b48611773655681b5c4bff459",
-"index.html": "4b10e2fa4094918bac9a0f8887880eb5",
-"/": "4b10e2fa4094918bac9a0f8887880eb5",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1"
+"assets/AssetManifest.json": "373e7e4bc7c1439bb5360cc0c5816691",
+"assets/assets/lotties/fireworks.json": "ec044d733ba18c777ff1c7495c565e3b",
+"assets/assets/lotties/bluetoothscanning.json": "9dc51300adb74b8f51fc5b5a6df88613",
+"assets/assets/lotties/tent.json": "a9f0e9f7c921e176f66304822542ec69",
+"assets/assets/pages/lotties.json": "071eac2ab8a464dfc1b7b3f60e4643e8"
 };
 
 // The application shell files that are downloaded before a service worker can
