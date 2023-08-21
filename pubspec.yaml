@@ -16,7 +16,7 @@ dependencies:
   child_builder: '^2.0.1'
   flutter: 
     sdk: 'flutter'
-  json_class: '^2.2.2+1'
+  json_class: ">=2.2.2+1 <4.0.0"
   json_dynamic_widget: '^6.0.6+6'
   json_theme: '^6.0.2+3'
   logging: '^1.2.0'
